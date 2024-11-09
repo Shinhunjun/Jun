@@ -10902,7 +10902,16 @@ p.lead {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
-  }
+}
+
+/* 모바일 화면에서 이미지 크기 조정 */
+@media (max-width: 768px) {
+    #sideNav .navbar-brand .img-profile {
+        max-width: 5rem; /* 모바일에서 적절한 크기로 설정 */
+        max-height: 5rem;
+    }
+}
+
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
