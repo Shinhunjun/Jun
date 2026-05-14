@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.next/
+out/
+*.log
+
+# Reference clone, kept locally only
+son-engr-kr.github.io/
