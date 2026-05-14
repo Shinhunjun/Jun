@@ -63,6 +63,7 @@ export const education: Education[] = [
     degreeLevel: "B.S.",
     major: "Computer Science and Engineering",
     period: "2023.01 - 2023.12",
+    logo: "/Jun/images/logos/nile.png",
     logoAlt: "National Institute for Lifelong Education",
   },
 ];
