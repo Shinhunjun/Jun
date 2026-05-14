@@ -43,7 +43,7 @@ export default function HomePage() {
       <section className="mb-16 flex flex-col gap-8 sm:flex-row sm:items-center">
         <div className="shrink-0">
           <Image
-            src="/images/main_page_images/jun.jpeg"
+            src="/Jun/images/main_page_images/jun.jpeg"
             alt="Hunjun Shin"
             width={180}
             height={180}

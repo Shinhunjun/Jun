@@ -45,7 +45,7 @@ export const education: Education[] = [
     period: "2024.09 - 2026.05",
     gpa: "4.0 / 4.0",
     honors: "Laurel and Scroll 100",
-    logo: "/images/logos/nu.png",
+    logo: "/Jun/images/logos/nu.png",
     logoAlt: "Northeastern University",
   },
   {
@@ -54,7 +54,7 @@ export const education: Education[] = [
     degreeLevel: "B.S.",
     major: "Chemistry, Military Arts and Science",
     period: "2015.02 - 2020.03",
-    logo: "/images/logos/kma.png",
+    logo: "/Jun/images/logos/kma.png",
     logoAlt: "Korea Military Academy",
   },
   {
